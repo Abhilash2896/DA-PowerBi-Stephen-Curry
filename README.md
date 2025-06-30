@@ -6,7 +6,7 @@ CurryShot1.pbix is a Power BI dashboard that analyzes Stephen Curry's shot data 
 
 📊 Features
 
-•	Zone-wise shot accuracy (3PT, mid-range, paint, etc.)
+•	Zone-wise shot accuracy.
 
 •	Shot heatmap showing frequency and success rate
 
@@ -18,7 +18,7 @@ CurryShot1.pbix is a Power BI dashboard that analyzes Stephen Curry's shot data 
 
 📂 Data Source
 
-This report uses Stephen Curry’s historical shot data. (Mention your exact data source here, e.g., Kaggle, NBA API, CSV, etc.)
+This report uses Stephen Curry’s historical shot data. (CurryShots.CSV)
 
 
 🛠️ Tools & Technologies
