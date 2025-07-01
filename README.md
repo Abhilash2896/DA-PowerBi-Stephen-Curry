@@ -29,7 +29,10 @@ This report uses Stephen Curry’s historical shot data. (CurryShots.CSV)
 
 •	Excel/CSV for raw data preparation
 
-Screenshots
+Screenshots 📷 
+
 https://github.com/Abhilash2896/DA-PowerBi-Stephen-Curry/blob/main/ScreenShot1.png
+
+https://github.com/Abhilash2896/DA-PowerBi-Stephen-Curry/blob/main/ScreenShot2.png
 
 
